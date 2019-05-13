@@ -18,7 +18,5 @@ README
 链接
 ------
 ### 链接外部URL
-|#|语法|效果|
-|---|----|-----|
-|1|`[我的网站](http://www.dengxitong.com "我的网站")`|[我的网站](http://www.dengxitong.com "我的网站")|
+[我的网站](http://www.dengxitong.com "我的网站")
 --------------------------------
