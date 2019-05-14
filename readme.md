@@ -19,5 +19,5 @@ README
     Hello,大家好，我是dengxit。
 链接
 --------------------------------
-[我的网站](http://www.dengxitong.com "我的网站")
+[dengxit的网站](http://www.dengxitong.com "我的网站")
 --------------------------------
