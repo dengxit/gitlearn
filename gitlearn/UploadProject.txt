@@ -1,0 +1,9 @@
+1.项目目录下git init
+2.git add. 或者是git add --all
+3.git commit  -m "  "
+4.在Github上创建一个Git仓库
+5.git remote add origin https://github.com/dengxit/XXXXX.git
+6.git push -u origin master（第一次提交）
+7.如果勾选了Initialize this repository with a README
+会报一个failed to push some refs to https://github.com/dengxit/XXXXX.git的错
+要git pull --rebase origin maste再git push -u origin master
