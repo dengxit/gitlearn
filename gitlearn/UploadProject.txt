@@ -7,3 +7,9 @@
 7.如果勾选了Initialize this repository with a README
 会报一个failed to push some refs to https://github.com/dengxit/XXXXX.git的错
 要git pull --rebase origin maste再git push -u origin master
+8.关于git提示“warning: LF will be replaced by CRLF”
+Git 可以在你提交时自动地把回车（CR）和换行（LF）转换成换行（LF）
+而在检出代码时把换行（LF）转换成回车（CR）和换行（LF）。
+ 你可以用git config --global core.autocrlf true 来打开此项功能。 
+如果是在 Windows 系统上，把它设置成 true，
+这样在检出代码时，换行会被转换成回车和换行
