@@ -1,6 +1,8 @@
 用于学习git开发流程的记录
 =======================
-1.git教程https://www.liaoxuefeng.com/wiki/896043488029600<br>
+1.git教程<br>
+https://www.liaoxuefeng.com/wiki/896043488029600<br>
+https://git-scm.com/book/zh/v2<br>
 2.readme教程https://blog.csdn.net/kaitiren/article/details/38513715<br>
 3.readme模版https://github.com/guodongxiaren/README/edit/master/README.md
 
