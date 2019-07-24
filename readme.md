@@ -30,8 +30,11 @@ git流程简记
 7.git push origin issue-XXXX
 8.提pr，跑ci，申请review，不通过接着改，循环3->7
 9.通过，被merge，issue关闭；
-10.出现bug，重开关闭的issue，基于master切bug分支:git checkout -b issue-XXXX-1
+10.出现bug，重开关闭的issue，基于master切bug分支:git checkout -b issue-XXXX-1(无bug则跳过10，11两步)
 11.循环3-6，git push origin issue-XXXX-1
+12.git checkout master
+13.git pull
+14.循环1-9开发新功能
 ```
 
 
