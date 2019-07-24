@@ -17,6 +17,27 @@ README
 |E-mail|dengxit@foxmail.com
 
     Hello,大家好，我是dengxit。
+    
+git流程简记
+===========================
+```
+1.新建issue
+2.根据issue号在本地基于master切issue-XXXX分支:git checkout -b issue-XXXX
+3.开发&本地测试
+4.git status
+5.git add .
+6.git commit -m "add: XXXXXXXX. close #XXXX"(add,fix,opt... #后的XXXX对应issue号)
+7.git push origin issue-XXXX
+8.提pr，跑ci，申请review，不通过接着改，循环3->7
+9.通过，被merge，issue关闭；
+10.出现bug，重开关闭的issue，基于master切bug分支:git checkout -b issue-XXXX-1
+11.循环3-6，git push origin issue-XXXX-1
+```
+
+
+
+
+
 链接
 --------------------------------
 [dengxit的网站](http://www.dengxitong.com "我的网站")
