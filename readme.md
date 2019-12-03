@@ -73,6 +73,18 @@ git push --force
 * 这样commit4就被撤销了。不过如果commit4后有commit5提交，在强制推送后commit5也会消失
 
 
+#### 测试环境冲突
+示例
+```
+pro   --->  branch-1
+branch -1  --->  staging   (conflicts)    branch-1  ----> pro (no-conflicts)
+解决：
+branch -1 ---> branch -2
+branch -2    merge   staging
+这样branch -2 成了一个受污染分支，但是解决了到staging的冲突
+```
+
+
 
 #### 链接
 --------------------------------
