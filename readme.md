@@ -1,14 +1,15 @@
 #### 用于学习git开发流程的记录
 =======================
-1.git教程<br>
+
+* git教程
 https://www.liaoxuefeng.com/wiki/896043488029600<br>
 https://git-scm.com/book/zh/v2<br>
-2.readme教程https://blog.csdn.net/kaitiren/article/details/38513715<br>
-3.readme模版https://github.com/guodongxiaren/README/edit/master/README.md
+* readme教程https://blog.csdn.net/kaitiren/article/details/38513715<br>
+* readme模版https://github.com/guodongxiaren/README/edit/master/README.md
 
 #### README
 ===========================
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
+* 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
 
 ****
 	
