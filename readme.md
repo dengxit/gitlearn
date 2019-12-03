@@ -2,10 +2,10 @@
 =======================
 
 * git教程
-https://www.liaoxuefeng.com/wiki/896043488029600<br>
-https://git-scm.com/book/zh/v2<br>
-* readme教程https://blog.csdn.net/kaitiren/article/details/38513715<br>
-* readme模版https://github.com/guodongxiaren/README/edit/master/README.md
+[liaoxuefeng](https://www.liaoxuefeng.com/wiki/896043488029600)
+[git-book](https://git-scm.com/book/zh/v2)
+* [readme教程](https://blog.csdn.net/kaitiren/article/details/38513715)
+* [readme模版](https://github.com/guodongxiaren/README/edit/master/README.md)
 
 #### README
 ===========================
