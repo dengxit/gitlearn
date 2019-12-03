@@ -15,7 +15,7 @@
 	
 |Author|dengxit|
 |---|---
-|E-mail|dengxit@foxmail.com
+|E-mail|dengxit@gmail.com
 
     Hello,大家好，我是dengxit。
     
