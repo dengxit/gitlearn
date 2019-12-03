@@ -37,6 +37,20 @@ git流程简记
 14.循环1-9开发新功能
 ```
 
+#### github初始化设置
+* 生成 ssh key 
+ssh-keygen -t rsa -C "dengxit@gmail.com"
+* 将sshkey添加到github设置中
+* 测试连接
+ssh -T git@github.com
+ssh-add ~/.ssh/github_rsa （链接失败执行）
+* github新建一个项目
+* 本地新建一个项目
+ git init
+ git remote add github XXXXXXXX/XXX.git
+ git add .
+ git push origin master
+
 
 
 
