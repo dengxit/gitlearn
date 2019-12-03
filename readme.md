@@ -76,11 +76,12 @@ git push --force
 #### 测试环境冲突
 示例
 ```
-pro   --->  branch-1
-branch -1  --->  staging   (conflicts)    branch-1  ----> pro (no-conflicts)
+pro          --->    branch-1
+branch -1    --->    staging   (conflicts)    branch-1  ----> pro (no-conflicts)
 解决：
-branch -1 ---> branch -2
+branch -1    --->    branch -2
 branch -2    merge   staging
+branch -2    push    staging
 这样branch -2 成了一个受污染分支，但是解决了到staging的冲突
 ```
 
